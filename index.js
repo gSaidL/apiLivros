@@ -1,6 +1,5 @@
 //Imports
 const express = require('express');
-const { emitWarning } = require('process');
 const app = express();
 app.use(express.json());
 
